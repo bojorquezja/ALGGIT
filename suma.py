@@ -10,4 +10,5 @@ c=suma(a,b)
 c=suma(c,b)
 print(c)
 print("FINAL")
-print("inicio")
+print("inicio y se acabo")
+
